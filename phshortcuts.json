@@ -122,7 +122,7 @@
   },
   {
     "command": "Type Tool",
-    "description": "이미지에 텍스트를 입력할 수 있는 도구입.",
+    "description": "이미지에 텍스트를 입력할 수 있는 도구.",
     "shortcut": ["t"],
     "category": "toolbar",
     "difficulty": "easy",
@@ -139,7 +139,7 @@
    {
     "command": "Shape Tool",
     "description": "path shape을 그릴 수 있는 도구.",
-    "shortcut": ["o"],
+    "shortcut": ["u"],
     "category": "toolbar",
     "difficulty": "easy",
     "preview": "#"
@@ -168,7 +168,77 @@
     "difficulty": "easy",
     "preview": "#"
   },
-  
+  {
+    "command": "New File",
+    "description": "새 문서를 생성합니다.",
+    "shortcut": ["control", "n"],
+    "category": "file",
+    "difficulty": "easy",
+     "preview": "#"
+  },
+  {
+    "command": "Open File",
+    "description": "기존 문서를 엽니다.",
+    "shortcut": ["control", "o"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Close File",
+    "description": "현재 문서를 닫습니다.",
+    "shortcut": ["control", "w"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Close All",
+    "description": "열려 있는 모든 문서를 닫습니다.",
+    "shortcut": ["alt", "control", "w"],
+    "category": "file",
+    "difficulty": "medium"
+  },
+  {
+    "command": "Close and Go to Bridge",
+    "description": "문서를 닫고 Adobe Bridge로 이동합니다.",
+    "shortcut": ["shift", "control", "w"],
+    "category": "file",
+    "difficulty": "medium"
+  },
+  {
+    "command": "Save",
+    "description": "현재 문서를 저장합니다.",
+    "shortcut": ["control", "s"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Save As",
+    "description": "다른 이름으로 저장합니다.",
+    "shortcut": ["shift", "control", "s"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Save a Copy",
+    "description": "현재 문서를 복사본으로 저장합니다.",
+    "shortcut": ["alt", "control", "s"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "File Info",
+    "description": "문서의 파일 정보를 확인합니다.",
+    "shortcut": ["alt", "shift", "control", "i"],
+    "category": "file",
+    "difficulty": "hard"
+  },
+  {
+    "command": "Print",
+    "description": "문서를 인쇄합니다.",
+    "shortcut": ["control", "p"],
+    "category": "file",
+    "difficulty": "easy"
+  },
   {
     "command": "Undo",
     "description": "이전 작업을 실행 취소합니다.",
