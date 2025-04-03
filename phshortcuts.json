@@ -34,4 +34,11 @@
     "category": "file",
     "difficulty": "hard"
   }
+  {
+    "command": "Move Tool",
+    "description": "오브젝트를 움직이거나 선택합니다.",
+    "shortcut": ["v"],
+    "category": "toolbar",
+    "difficulty": "easy"
+  }
 ]
