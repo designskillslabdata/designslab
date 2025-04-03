@@ -238,9 +238,8 @@
     "shortcut": ["control", "p"],
     "category": "file",
     "difficulty": "easy"
-  }
-]
-
+  },
+     
   {
     "command": "Undo",
     "description": "이전 작업을 실행 취소합니다.",
