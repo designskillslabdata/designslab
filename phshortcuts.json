@@ -1,44 +1,80 @@
 [
   {
-    "command": "New Document",
+    "command": "Move Tool",
+    "description": "선택한 오브젝트를 이동하는 도구입니다.",
+    "shortcut": ["v"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://yourdomain.com/images/move_tool.gif"
+  },
+  {
+    "command": "New File",
     "description": "새 문서를 생성합니다.",
     "shortcut": ["control", "n"],
     "category": "file",
     "difficulty": "easy"
   },
   {
-    "command": "Open Document",
-    "description": "기존 문서를 엽니다.",
-    "shortcut": ["control", "o"],
-    "category": "file",
+    "command": "Undo",
+    "description": "이전 작업을 실행 취소합니다.",
+    "shortcut": ["control", "z"],
+    "category": "edit",
     "difficulty": "easy"
   },
   {
-    "command": "Save As",
-    "description": "다른 이름으로 저장합니다.",
-    "shortcut": ["control", "shift", "s"],
-    "category": "file",
+    "command": "Image Size",
+    "description": "이미지의 해상도 및 크기를 조절합니다.",
+    "shortcut": ["alt", "control", "i"],
+    "category": "image",
     "difficulty": "medium"
   },
   {
-    "command": "Close Document",
-    "description": "문서를 닫습니다.",
-    "shortcut": ["control", "w"],
-    "category": "file",
+    "command": "Duplicate Layer",
+    "description": "선택한 레이어를 복제합니다.",
+    "shortcut": ["control", "j"],
+    "category": "layer",
     "difficulty": "easy"
   },
   {
-    "command": "File Info",
-    "description": "파일 정보를 확인합니다.",
-    "shortcut": ["control", "alt", "shift", "i"],
-    "category": "file",
-    "difficulty": "hard"
-  }
+    "command": "Bold Text",
+    "description": "선택한 텍스트를 굵게 만듭니다.",
+    "shortcut": ["control", "shift", "b"],
+    "category": "type",
+    "difficulty": "medium"
+  },
   {
-    "command": "Move Tool",
-    "description": "오브젝트를 움직이거나 선택합니다.",
-    "shortcut": ["v"],
-    "category": "toolbar",
+    "command": "Select All",
+    "description": "전체를 선택합니다.",
+    "shortcut": ["control", "a"],
+    "category": "select",
     "difficulty": "easy"
+  },
+  {
+    "command": "Gaussian Blur",
+    "description": "이미지에 부드러운 블러 효과를 줍니다.",
+    "shortcut": ["alt", "control", "f"],
+    "category": "filter",
+    "difficulty": "medium"
+  },
+  {
+    "command": "Zoom In",
+    "description": "화면을 확대합니다.",
+    "shortcut": ["control", "+"],
+    "category": "view",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Toggle Plugins Panel",
+    "description": "플러그인 패널을 표시하거나 숨깁니다.",
+    "shortcut": ["shift", "f1"],
+    "category": "plugins",
+    "difficulty": "hard"
+  },
+  {
+    "command": "Open Actions",
+    "description": "액션 패널을 엽니다.",
+    "shortcut": ["alt", "f9"],
+    "category": "window",
+    "difficulty": "medium"
   }
 ]
