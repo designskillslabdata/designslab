@@ -1,0 +1,37 @@
+[
+  {
+    "command": "New Document",
+    "description": "새 문서를 생성합니다.",
+    "shortcut": ["control", "n"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Open Document",
+    "description": "기존 문서를 엽니다.",
+    "shortcut": ["control", "o"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "Save As",
+    "description": "다른 이름으로 저장합니다.",
+    "shortcut": ["control", "shift", "s"],
+    "category": "file",
+    "difficulty": "medium"
+  },
+  {
+    "command": "Close Document",
+    "description": "문서를 닫습니다.",
+    "shortcut": ["control", "w"],
+    "category": "file",
+    "difficulty": "easy"
+  },
+  {
+    "command": "File Info",
+    "description": "파일 정보를 확인합니다.",
+    "shortcut": ["control", "alt", "shift", "i"],
+    "category": "file",
+    "difficulty": "hard"
+  }
+]
