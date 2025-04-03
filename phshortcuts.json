@@ -1,11 +1,115 @@
 [
-  {
+   {
     "command": "Move Tool",
     "description": "선택한 오브젝트를 이동하는 도구입니다.",
     "shortcut": ["v"],
     "category": "toolbar",
     "difficulty": "easy",
     "preview": "https://cdn.imweb.me/upload/S20190713161f9b85458b3/5d0a2964848f1.gif"
+  },
+  {
+    "command": "Marquee Tool",
+    "description": "사각형이나 원형 등 기본 도형 형태로 선택 영역을 만듭니다.",
+    "shortcut": ["m"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/selecting-images/jcr_content/main-pars/image/marqueetools.png"
+  },
+  {
+    "command": "Lasso Tool",
+    "description": "자유롭게 그려 선택 영역을 만드는 도구입니다.",
+    "shortcut": ["l"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/selecting-images/jcr_content/main-pars/image_8/lassotools.png"
+  },
+  {
+    "command": "Quick Selection Tool",
+    "description": "경계를 자동 인식하여 빠르게 선택하는 도구입니다.",
+    "shortcut": ["w"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/selecting-images/jcr_content/main-pars/image_7/quickselect.png"
+  },
+  {
+    "command": "Crop Tool",
+    "description": "이미지의 원하는 부분만 남기고 잘라냅니다.",
+    "shortcut": ["c"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/crop-straighten-photos/jcr_content/main-pars/image/crop-tool.png"
+  },
+  {
+    "command": "Eyedropper Tool",
+    "description": "화면에서 색상을 추출하는 도구입니다.",
+    "shortcut": ["i"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/using-color-pickers/jcr_content/main-pars/image_0/eyedropper.png"
+  },
+  {
+    "command": "Brush Tool",
+    "description": "그림을 그리거나 페인팅할 수 있는 기본 도구입니다.",
+    "shortcut": ["b"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/brush-tool-basics/jcr_content/main-pars/image/brushicon.png"
+  },
+  {
+    "command": "Clone Stamp Tool",
+    "description": "이미지의 한 부분을 복제해 다른 곳에 찍을 수 있는 도구입니다.",
+    "shortcut": ["s"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/retouching-fixing/jcr_content/main-pars/image/stamp.png"
+  },
+  {
+    "command": "Eraser Tool",
+    "description": "이미지나 레이어의 일부를 지울 수 있는 도구입니다.",
+    "shortcut": ["e"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/erasing-parts-image/jcr_content/main-pars/image/eraser.png"
+  },
+  {
+    "command": "Gradient Tool",
+    "description": "색상 간의 부드러운 전환 효과를 만들 수 있는 도구입니다.",
+    "shortcut": ["g"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/fill-images-shapes-color/jcr_content/main-pars/image_2/gradient.png"
+  },
+  {
+    "command": "Pen Tool",
+    "description": "정확한 경로와 선택 영역을 만들 수 있는 벡터 기반 도구입니다.",
+    "shortcut": ["p"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/drawing-pen-tools/jcr_content/main-pars/image/pen.png"
+  },
+  {
+    "command": "Type Tool",
+    "description": "이미지에 텍스트를 입력할 수 있는 도구입니다.",
+    "shortcut": ["t"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/formatting-characters/jcr_content/main-pars/image/type.png"
+  },
+  {
+    "command": "Hand Tool",
+    "description": "화면의 보기 위치를 이동할 수 있는 도구입니다.",
+    "shortcut": ["h"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/viewing-images/jcr_content/main-pars/image/handtool.png"
+  },
+  {
+    "command": "Zoom Tool",
+    "description": "화면을 확대하거나 축소할 수 있는 도구입니다.",
+    "shortcut": ["z"],
+    "category": "toolbar",
+    "difficulty": "easy",
+    "preview": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/viewing-images/jcr_content/main-pars/image/zoomtool.png"
   },
   {
     "command": "New File",
