@@ -49,7 +49,7 @@
     "description": "이미지나 그래픽을 프레임 안에 배치할 수 있도록 도와주는 도구.",
     "shortcut": ["k"],
     "category": "toolbar",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
