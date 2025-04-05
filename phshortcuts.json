@@ -1,305 +1,281 @@
 [
-   {
+  {
     "command": "Move Tool",
     "description": "선택한 오브젝트를 이동하는 도구.",
     "shortcut": ["v"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "https://cdn.imweb.me/upload/S20190713161f9b85458b3/5d0a2964848f1.gif"
+    "difficulty": "favorite",
+    "preview": "https://cdn.imweb.me/upload/S20190713161f9b85458b3/5d0a2964848f1.gif",
+    "link": "#"
   },
   {
     "command": "Marquee Tool",
     "description": "사각형이나 원형 등 기본 도형 형태로 선택 영역을 만드는 도구.",
     "shortcut": ["m"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Lasso Tool",
     "description": "자유롭게 그려 선택 영역을 만드는 도구.",
     "shortcut": ["l"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Quick Selection Tool",
     "description": "경계를 자동 인식하여 빠르게 선택하는 도구입니다.",
     "shortcut": ["w"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Crop Tool",
     "description": "이미지의 원하는 부분만 남기고 잘라내는 도구.",
     "shortcut": ["c"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "Frame Tool",
     "description": "이미지나 그래픽을 프레임 안에 배치할 수 있도록 도와주는 도구.",
     "shortcut": ["k"],
-    "preview": "#",
     "category": "toolbar",
-    "difficulty": "easy"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Eyedropper Tool",
     "description": "화면에서 색상을 추출하는 도구.",
     "shortcut": ["i"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "Healing Brush Tool",
     "description": "이미지의 결함이나 잡티를 주변 픽셀과 자연스럽게 섞어 복원하는 도구.",
     "shortcut": ["j"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Brush Tool",
     "description": "그림을 그리거나 페인팅할 수 있는 기본 도구.",
     "shortcut": ["b"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   
   {
     "command": "Clone Stamp Tool",
     "description": "이미지의 한 부분을 복제해 다른 곳에 찍을 수 있는 도구.",
     "shortcut": ["s"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "History Brush Tool",
     "description": "이미지의 이전 상태를 브러시 형태로 복원할 수 있는 도구.",
     "shortcut": ["y"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Eraser Tool",
     "description": "이미지나 레이어의 일부를 지울 수 있는 도구.",
     "shortcut": ["e"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Gradient Tool",
     "description": "색상 간의 부드러운 전환 효과를 만들 수 있는 도구.",
     "shortcut": ["g"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "Dodge Tool",
     "description": "이미지의 특정 부분을 밝게 만들어 하이라이트를 강조하는 도구.",
     "shortcut": ["o"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Pen Tool",
     "description": "정확한 경로와 선택 영역을 만들 수 있는 벡터 기반 도구.",
     "shortcut": ["p"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Type Tool",
     "description": "이미지에 텍스트를 입력할 수 있는 도구.",
     "shortcut": ["t"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "Path Selection Tool",
     "description": "path나 shape 전체를 선택하고 이동할 수 있는 도구.",
     "shortcut": ["a"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "Shape Tool",
     "description": "path shape을 그릴 수 있는 도구.",
     "shortcut": ["u"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Hand Tool",
     "description": "화면의 보기 위치를 이동할 수 있는 도구.",
     "shortcut": ["h"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
-   {
+  {
     "command": "Rotate View Tool",
     "description": "화면을 회전하여 볼 수 있는 도구.",
     "shortcut": ["r"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Zoom Tool",
     "description": "화면을 확대하거나 축소할 수 있는 도구.",
     "shortcut": ["z"],
     "category": "toolbar",
-    "difficulty": "easy",
-    "preview": "#"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "New File",
     "description": "새 문서를 생성합니다.",
     "shortcut": ["control", "n"],
     "category": "file",
-    "difficulty": "easy",
-     "preview": "#"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Open File",
     "description": "기존 문서를 엽니다.",
     "shortcut": ["control", "o"],
     "category": "file",
-    "difficulty": "easy"
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Close File",
     "description": "현재 문서를 닫습니다.",
     "shortcut": ["control", "w"],
     "category": "file",
-    "difficulty": "easy"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Close All",
     "description": "열려 있는 모든 문서를 닫습니다.",
     "shortcut": ["alt", "control", "w"],
     "category": "file",
-    "difficulty": "medium"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Close and Go to Bridge",
     "description": "문서를 닫고 Adobe Bridge로 이동합니다.",
     "shortcut": ["shift", "control", "w"],
     "category": "file",
-    "difficulty": "medium"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Save",
     "description": "현재 문서를 저장합니다.",
     "shortcut": ["control", "s"],
     "category": "file",
-    "difficulty": "easy"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Save As",
     "description": "다른 이름으로 저장합니다.",
     "shortcut": ["shift", "control", "s"],
     "category": "file",
-    "difficulty": "easy"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Save a Copy",
     "description": "현재 문서를 복사본으로 저장합니다.",
     "shortcut": ["alt", "control", "s"],
     "category": "file",
-    "difficulty": "easy"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "File Info",
     "description": "문서의 파일 정보를 확인합니다.",
     "shortcut": ["alt", "shift", "control", "i"],
     "category": "file",
-    "difficulty": "hard"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   },
   {
     "command": "Print",
     "description": "문서를 인쇄합니다.",
     "shortcut": ["control", "p"],
     "category": "file",
-    "difficulty": "easy"
-  },
-  {
-    "command": "Undo",
-    "description": "이전 작업을 실행 취소합니다.",
-    "shortcut": ["control", "z"],
-    "category": "edit",
-    "difficulty": "easy"
-  },
-  {
-    "command": "Image Size",
-    "description": "이미지의 해상도 및 크기를 조절합니다.",
-    "shortcut": ["alt", "control", "i"],
-    "category": "image",
-    "difficulty": "medium"
-  },
-  {
-    "command": "Duplicate Layer",
-    "description": "선택한 레이어를 복제합니다.",
-    "shortcut": ["control", "j"],
-    "category": "layer",
-    "difficulty": "easy"
-  },
-  {
-    "command": "Bold Text",
-    "description": "선택한 텍스트를 굵게 만듭니다.",
-    "shortcut": ["control", "shift", "b"],
-    "category": "type",
-    "difficulty": "medium"
-  },
-  {
-    "command": "Select All",
-    "description": "전체를 선택합니다.",
-    "shortcut": ["control", "a"],
-    "category": "select",
-    "difficulty": "easy"
-  },
-  {
-    "command": "Gaussian Blur",
-    "description": "이미지에 부드러운 블러 효과를 줍니다.",
-    "shortcut": ["alt", "control", "f"],
-    "category": "filter",
-    "difficulty": "medium"
-  },
-  {
-    "command": "Zoom In",
-    "description": "화면을 확대합니다.",
-    "shortcut": ["control", "+"],
-    "category": "view",
-    "difficulty": "easy"
-  },
-  {
-    "command": "Toggle Plugins Panel",
-    "description": "플러그인 패널을 표시하거나 숨깁니다.",
-    "shortcut": ["shift", "f1"],
-    "category": "plugins",
-    "difficulty": "hard"
-  },
-  {
-    "command": "Open Actions",
-    "description": "액션 패널을 엽니다.",
-    "shortcut": ["alt", "f9"],
-    "category": "window",
-    "difficulty": "medium"
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   }
 ]
