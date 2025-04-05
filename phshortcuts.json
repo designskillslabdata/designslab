@@ -191,7 +191,7 @@
   {
     "command": "New File",
     "description": "새 문서를 생성합니다.",
-    "shortcut": ["ctrl", "n"],
+    "shortcut": ["control", "n"],
     "category": "file",
     "difficulty": "favorite",
     "preview": "#",
@@ -200,7 +200,7 @@
   {
     "command": "Open File",
     "description": "기존 문서를 엽니다.",
-    "shortcut": ["ctrl", "o"],
+    "shortcut": ["control", "o"],
     "category": "file",
     "difficulty": "favorite",
     "preview": "#",
@@ -209,7 +209,7 @@
   {
     "command": "Close File",
     "description": "현재 문서를 닫습니다.",
-    "shortcut": ["ctrl", "w"],
+    "shortcut": ["control", "w"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -218,7 +218,7 @@
   {
     "command": "Close All",
     "description": "열려 있는 모든 문서를 닫습니다.",
-    "shortcut": ["alt", "ctrl", "w"],
+    "shortcut": ["alt", "control", "w"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -227,7 +227,7 @@
   {
     "command": "Close and Go to Bridge",
     "description": "문서를 닫고 Adobe Bridge로 이동합니다.",
-    "shortcut": ["shift", "ctrl", "w"],
+    "shortcut": ["shift", "control", "w"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -236,7 +236,7 @@
   {
     "command": "Save",
     "description": "현재 문서를 저장합니다.",
-    "shortcut": ["ctrl", "s"],
+    "shortcut": ["control", "s"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -245,7 +245,7 @@
   {
     "command": "Save As",
     "description": "다른 이름으로 저장합니다.",
-    "shortcut": ["shift", "ctrl", "s"],
+    "shortcut": ["shift", "control", "s"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -254,7 +254,7 @@
   {
     "command": "Save a Copy",
     "description": "현재 문서를 복사본으로 저장합니다.",
-    "shortcut": ["alt", "ctrl", "s"],
+    "shortcut": ["alt", "control", "s"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -263,7 +263,7 @@
   {
     "command": "File Info",
     "description": "문서의 파일 정보를 확인합니다.",
-    "shortcut": ["alt", "shift", "ctrl", "i"],
+    "shortcut": ["alt", "shift", "control", "i"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
@@ -272,7 +272,7 @@
   {
     "command": "Print",
     "description": "문서를 인쇄합니다.",
-    "shortcut": ["ctrl", "p"],
+    "shortcut": ["control", "p"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
