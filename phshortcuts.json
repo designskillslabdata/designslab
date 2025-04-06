@@ -284,7 +284,7 @@
     "description": "채우기 기능.",
     "shortcut": ["shift", "f5"],
     "category": "edit",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#",
     "preinput": "f5"
