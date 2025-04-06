@@ -19,7 +19,7 @@
   },
   {
     "command": "Lasso Tool",
-    "description": "Selection Brush Tool/n자유롭게 그려 선택 영역을 만드는 도구.",
+    "description": "Selection Brush Tool /n자유롭게 그려 선택 영역을 만드는 도구.",
     "shortcut": ["l"],
     "category": "toolbar",
     "difficulty": "favorite",
