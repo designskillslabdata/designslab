@@ -832,7 +832,7 @@
     "description": "그리드를를 표시하거나 숨깁니다.",
     "shortcut": ["control", "'"],
     "category": "view",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -841,7 +841,7 @@
     "description": "가이드를 잠급니다..",
     "shortcut": ["control","shift", ";"],
     "category": "view",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -861,7 +861,7 @@
     "description": "브러시의 설정을 조정할 수 있는 패널을 엽니다.",
     "shortcut": ["f5"],
     "category": "window",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#",
     "preinput": "f5"
