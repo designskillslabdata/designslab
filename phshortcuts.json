@@ -771,7 +771,7 @@
     "category": "window",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "#",
     "preinput": "f9"
   },
   {
@@ -781,7 +781,7 @@
     "category": "window",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "#",
     "preinput": "f5"
   },
   {
@@ -791,7 +791,7 @@
     "category": "window",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "#",
     "preinput": "f6"
   },
   {
@@ -801,11 +801,11 @@
     "category": "window",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "#",
     "preinput": "f8"
   },
   {
-    "command": "Layer",
+    "command": "Layers",
     "description": "레이어 패널을 열고 닫습니다.",
     "shortcut": ["f7"],
     "category": "window",
