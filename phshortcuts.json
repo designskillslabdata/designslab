@@ -200,7 +200,7 @@
   {
       "command": "Color Picker Reset",
       "description": "컬러피커를 검정색/흰색으로 초기화시킴.",
-      "shortcut": ["x"],
+      "shortcut": ["d"],
       "category": "toolbar",
       "difficulty": "favorite",
       "preview": "#",
