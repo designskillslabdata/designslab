@@ -15,7 +15,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://www.designskillslab.com/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14721212&t=board#onlist2"
   },
   {
     "command": "Lasso Tool",
@@ -24,7 +24,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://www.designskillslab.com/dictionary/?bmode=view&idx=14721219&back_url=&t=board&page=1#onlist1"
   },
   {
     "command": "Object Selection Tool",
@@ -33,7 +33,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://www.designskillslab.com/dictionary/?bmode=view&idx=14918140&back_url=&t=board&page=1#onlist1"
   },
   {
     "command": "Crop Tool",
@@ -42,7 +42,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939335&t=board#onlist1"
   },
   {
     "command": "Frame Tool",
@@ -51,7 +51,7 @@
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939340&t=board#onlist1"
   },
   {
     "command": "Eyedropper Tool",
@@ -60,16 +60,16 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939358&t=board#onlist1"
   },
   {
-    "command": "Healing Brush Tool",
-    "description": "이미지의 결함이나 잡티를 주변 픽셀과 자연스럽게 섞어 복원하는 도구.",
+    "command": "Patch Tool",
+    "description": "Remove Tool /Healing Brush Tool \n 이미지의 결함이나 잡티를 주변 픽셀과 자연스럽게 섞어 복원하는 도구.",
     "shortcut": ["j"],
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939375&t=board#onlist3"
   },
   {
     "command": "Brush Tool",
@@ -78,7 +78,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939389&t=board#onlist1"
   },
   {
     "command": "Clone Stamp Tool",
@@ -87,7 +87,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939397&t=board#onlist1"
   },
   {
     "command": "History Brush Tool",
@@ -96,7 +96,7 @@
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14955793&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Eraser Tool",
@@ -105,7 +105,7 @@
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14955810&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Gradient Tool",
@@ -114,16 +114,16 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14955827&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Dodge Tool",
-    "description": "이미지의 특정 부분을 밝게 만들어 하이라이트를 강조하는 도구.",
+    "description": "Burn Tool \n 이미지의 특정 부분을 밝게 만들어 하이라이트를 강조하는 도구.",
     "shortcut": ["o"],
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14955845&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Pen Tool",
@@ -132,7 +132,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14955866&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Type Tool",
@@ -141,7 +141,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965186&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Path Selection Tool",
@@ -150,7 +150,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965187&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Shape Tool",
@@ -159,7 +159,7 @@
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965207&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Hand Tool",
@@ -168,7 +168,7 @@
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965214&t=board&category=0TE168OF78#onlist1"
   },
   {
     "command": "Rotate View Tool",
@@ -177,7 +177,7 @@
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965214&t=board&category=0TE168OF78#onlist2"
   },
   {
     "command": "Zoom Tool",
@@ -186,8 +186,27 @@
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
-    "link": "#"
+    "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965218&t=board&category=0TE168OF78#onlist1"
   },
+    {
+      "command": "Color Picker Switch",
+      "description": "컬러피커의 전경색과 배경색을 서로 바꿔줌.",
+      "shortcut": ["x"],
+      "category": "toolbar",
+      "difficulty": "favorite",
+      "preview": "#",
+      "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965226&t=board&category=0TE168OF78#onlist2"
+    },
+  {
+      "command": "Color Picker Reset",
+      "description": "컬러피커를 검정색/흰색으로 초기화시킴.",
+      "shortcut": ["x"],
+      "category": "toolbar",
+      "difficulty": "favorite",
+      "preview": "#",
+      "link": "https://designskillslab.imweb.me/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14965226&t=board&category=0TE168OF78#onlist2"
+    },
+  
   {
     "command": "New File",
     "description": "새 문서를 생성합니다.",
