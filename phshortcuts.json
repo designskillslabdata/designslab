@@ -221,7 +221,7 @@
     "description": "기존 문서를 엽니다.",
     "shortcut": ["control", "o"],
     "category": "file",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -230,7 +230,7 @@
     "description": "현재 문서를 닫습니다.",
     "shortcut": ["control", "w"],
     "category": "file",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
@@ -275,7 +275,7 @@
     "description": "현재 문서를 복사본으로 저장합니다.",
     "shortcut": ["alt", "control", "s"],
     "category": "file",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
@@ -289,10 +289,30 @@
     "link": "#"
   },
   {
-    "command": "File Info",
-    "description": "문서의 파일 정보를 확인합니다.",
-    "shortcut": ["alt", "shift", "control", "i"],
+    "command": "Print",
+    "description": "문서를 인쇄합니다.",
+    "shortcut": ["control", "p"],
     "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+
+  {
+    "command": "Undo",
+    "description": "작업을 되돌립니다.",
+    "shortcut": ["control", "z"],
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Redo",
+    "description": "되돌린 작업을 다시 되돌립니다.",
+    "shortcut": ["control","shift", "z"],
+    "category": "edit",
     "difficulty": "#",
     "preview": "#",
     "link": "#"
