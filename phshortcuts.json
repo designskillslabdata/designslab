@@ -536,6 +536,88 @@
     "link": "#"
   },
 
+   {
+    "command": "New Layer",
+    "description": "새 레이어를 생성합니다.",
+    "shortcut": ["shift", "control", "n"],
+    "category": "layer",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Layer Via Copy",
+    "description": "선택한 영역을 복사하여 새 레이어로 만듭니다.",
+    "shortcut": ["control", "j"],
+    "category": "layer",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Create Clipping Mask",
+    "description": "하위 레이어에 클리핑 마스크를 적용합니다.",
+    "shortcut": ["alt", "control", "g"],
+    "category": "layer",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Group Layers",
+    "description": "선택한 레이어들을 그룹으로 묶습니다.",
+    "shortcut": ["control", "g"],
+    "category": "layer",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Ungroup Layers",
+    "description": "선택한 레이어 그룹을 해제합니다.",
+    "shortcut": ["shift", "control", "g"],
+    "category": "layer",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Hide Layers",
+    "description": "선택한 레이어를 숨깁니다.",
+    "shortcut": ["control", ","],
+    "category": "layer",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Lock Layers",
+    "description": "선택한 레이어를 잠급니다.",
+    "shortcut": ["control", "/"],
+    "category": "layer",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Merge Down",
+    "description": "선택한 레이어를 바로 아래 레이어와 병합합니다.",
+    "shortcut": ["control", "e"],
+    "category": "layer",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Merge Visible",
+    "description": "현재 보이는 모든 레이어를 병합합니다.",
+    "shortcut": ["shift", "control", "e"],
+    "category": "layer",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  
 {
     "command": "Select All",
     "description": "전체 캔버스를 선택합니다.",
