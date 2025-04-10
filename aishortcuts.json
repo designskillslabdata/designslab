@@ -376,5 +376,950 @@
     "difficulty": "favorite",
     "preview": "#",
     "link": "#"
+  },
+
+
+  {
+    "command": "New",
+    "shortcut": ["control", "n"],
+    "description": "새 문서를 생성합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "New from Template...",
+    "shortcut": ["shift", "control", "n"],
+    "description": "템플릿을 기반으로 새 문서를 만듭니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Open...",
+    "shortcut": ["control", "o"],
+    "description": "기존 문서를 엽니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Close",
+    "shortcut": ["control", "w"],
+    "description": "현재 문서를 닫습니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Save",
+    "shortcut": ["control", "s"],
+    "description": "작업 중인 문서를 저장합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Save As...",
+    "shortcut": ["control", "shift", "s"],
+    "description": "문서를 다른 이름으로 저장합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Save a Copy...",
+    "shortcut": ["control", "alt", "s"],
+    "description": "문서의 복사본을 저장합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Place...",
+    "shortcut": ["shift", "control", "p"],
+    "description": "외부 파일을 현재 문서에 배치합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Export for Screens...",
+    "shortcut": ["control", "alt", "e"],
+    "description": "다양한 해상도와 포맷으로 화면용으로 내보냅니다.",
+    "category": "file",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Export As...",
+    "shortcut": ["control", "shift", "w"],
+    "description": "다양한 이미지 포맷으로 내보냅니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Save for Web (Legacy)...",
+    "shortcut": ["control", "alt", "shift", "s"],
+    "description": "웹 최적화를 위한 레거시 이미지 저장 기능입니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Document Setup...",
+    "shortcut": ["control", "alt", "p"],
+    "description": "문서 크기, 방향, 여백 등을 설정합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "File Info...",
+    "shortcut": ["control", "shift", "alt", "i"],
+    "description": "저작권 및 메타 정보를 입력합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Print...",
+    "shortcut": ["control", "p"],
+    "description": "문서를 인쇄합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Other Script",
+    "shortcut": ["control", "f12"],
+    "description": "문서를 인쇄합니다.",
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput":"f12"
+  },
+
+
+  {
+    "command": "Undo",
+    "shortcut": ["control", "z"],
+    "description": "마지막 작업을 되돌립니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Redo",
+    "shortcut": ["control", "shift", "z"],
+    "description": "되돌린 작업을 다시 실행합니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Cut",
+    "shortcut": ["control", "x"],
+    "description": "선택한 항목을 잘라 클립보드에 복사합니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Copy",
+    "shortcut": ["control", "c"],
+    "description": "선택한 항목을 클립보드에 복사합니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paste",
+    "shortcut": ["control", "v"],
+    "description": "클립보드의 항목을 붙여넣습니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paste in Front",
+    "shortcut": ["control", "f"],
+    "description": "복사한 항목을 선택한 오브젝트 앞에 붙여넣습니다.",
+    "category": "edit",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paste in Back",
+    "shortcut": ["control", "b"],
+    "description": "복사한 항목을 선택한 오브젝트 뒤에 붙여넣습니다.",
+    "category": "edit",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paste in Place",
+    "shortcut": ["shift", "control", "v"],
+    "description": "원래 위치에 그대로 붙여넣습니다.",
+    "category": "edit",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paste on All Artboards",
+    "shortcut": ["alt", "shift", "control", "v"],
+    "description": "모든 아트보드에 동일한 위치로 붙여넣습니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Color Settings...",
+    "shortcut": ["shift", "control", "k"],
+    "description": "작업 문서의 색상 환경을 설정합니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Keyboard Shortcuts...",
+    "shortcut": ["alt", "control", "shift", "k"],
+    "description": "단축키 설정 창을 엽니다.",
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  
+  
+  {
+    "command": "Transform Again",
+    "shortcut": ["control", "d"],
+    "description": "마지막으로 적용한 변형을 다시 수행합니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Move...",
+    "shortcut": ["shift", "control", "m"],
+    "description": "오브젝트를 수치 입력을 통해 이동합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Transform Each...",
+    "shortcut": ["alt", "shift", "control", "d"],
+    "description": "여러 개체를 개별적으로 변형합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Group",
+    "shortcut": ["control", "g"],
+    "description": "선택한 오브젝트들을 그룹으로 묶습니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Ungroup",
+    "shortcut": ["shift", "control", "g"],
+    "description": "그룹으로 묶인 오브젝트를 해제합니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Ungroup All",
+    "shortcut": ["alt", "shift", "g"],
+    "description": "모든 그룹을 한 번에 해제합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Lock Selection",
+    "shortcut": ["control", "2"],
+    "description": "선택한 오브젝트를 잠급니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Unlock All",
+    "shortcut": ["alt", "control", "2"],
+    "description": "잠긴 모든 오브젝트를 해제합니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Hide Selection",
+    "shortcut": ["control", "3"],
+    "description": "선택한 오브젝트를 숨깁니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Show All",
+    "shortcut": ["alt", "control", "3"],
+    "description": "모든 숨겨진 오브젝트를 표시합니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Path > Join",
+    "shortcut": ["control", "j"],
+    "description": "두 개 이상의 path를 연결합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Path > Average...",
+    "shortcut": ["alt", "control", "j"],
+    "description": "여러 포인트의 위치를 평균 내어 정렬합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Edit Pattern",
+    "shortcut": ["shift", "control", "f8"],
+    "description": "패턴 편집 모드를 엽니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Blend > Make",
+    "shortcut": ["alt", "control", "b"],
+    "description": "두 오브젝트를 혼합하여 블렌드 오브젝트를 생성합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Blend > Release",
+    "shortcut": ["alt", "shift", "control", "b"],
+    "description": "블렌드 상태를 해제합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Envelope Distort > Make with Warp",
+    "shortcut": ["alt", "shift", "control", "w"],
+    "description": "왜곡 형태로 Envelope Distort를 적용합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Envelope Distort > Make with Mesh",
+    "shortcut": ["alt", "control", "m"],
+    "description": "메시를 기반으로 Envelope Distort를 적용합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Envelope Distort > Make with Top Object",
+    "shortcut": ["alt", "control", "c"],
+    "description": "맨 위 오브젝트를 기준으로 Envelope Distort를 적용합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Live Paint > Make",
+    "shortcut": ["alt", "control", "x"],
+    "description": "오브젝트를 Live Paint 그룹으로 만듭니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Clipping Mask > Make",
+    "shortcut": ["control", "7"],
+    "description": "클리핑 마스크를 설정합니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Clipping Mask > Release",
+    "shortcut": ["control","alt", "7"],
+    "description": "클리핑 마스크를 해제합니다.",
+    "category": "object",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Compound Path > Make",
+    "shortcut": ["control", "8"],
+    "description": "복합 경로를 만듭니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Compound Path > Release",
+    "shortcut": ["shift", "alt", "control", "8"],
+    "description": "복합 경로를 해제합니다.",
+    "category": "object",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+
+  {
+    "command": "Create Outlines",
+    "shortcut": ["shift", "control", "o"],
+    "description": "선택한 텍스트를 벡터 아웃라인으로 변환합니다.",
+    "category": "type",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Show Hidden Characters",
+    "shortcut": ["alt", "control", "i"],
+    "description": "텍스트 내 공백 문자 및 특수 문자를 표시합니다.",
+    "category": "type",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+  
+  {
+    "command": "All",
+    "shortcut": ["control", "a"],
+    "description": "전체 오브젝트를 선택합니다.",
+    "category": "select",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "All on Active Artboard",
+    "shortcut": ["control","alt", "a"],
+    "description": "현재 활성화된 아트보드 위의 모든 오브젝트를 선택합니다.",
+    "category": "select",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Deselect",
+    "shortcut": ["shift", "control", "a"],
+    "description": "선택된 오브젝트를 모두 해제합니다.",
+    "category": "select",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Reselect",
+    "shortcut": ["control", "6"],
+    "description": "마지막 선택 상태를 다시 선택합니다.",
+    "category": "select",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Next Object Above",
+    "shortcut": ["control","alt", "]"],
+    "description": "위쪽 오브젝트를 선택합니다.",
+    "category": "select",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Next Object Below",
+    "shortcut": ["control","alt", "["],
+    "description": "아래쪽 오브젝트를 선택합니다.",
+    "category": "select",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+  {
+    "command": "Apply Last Effect",
+    "shortcut": ["control","shift", "e"],
+    "description": "마지막으로 적용한 효과를 다시 적용합니다.",
+    "category": "effect",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Last Effect",
+    "shortcut": ["shift", "control","alt", "e"],
+    "description": "마지막으로 사용한 효과를 다시 표시합니다.",
+    "category": "effect",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+  
+  {
+    "command": "Outline",
+    "shortcut": ["control", "y"],
+    "description": "오브젝트를 윤곽선 모드로 전환합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Preview on CPU",
+    "shortcut": ["control", "e"],
+    "description": "CPU 모드에서 미리 보기를 활성화합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Overprint Preview",
+    "shortcut": ["control","shift","alt", "y"],
+    "description": "오버프린트를 미리 보기를 활성화합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Pixel Preview",
+    "shortcut": ["control", "alt", "ㅛ"],
+    "description": "픽셀 미리 보기를 활성화합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+  {
+    "command": "Presentation Mode",
+    "shortcut": ["shift", "f"],
+    "description": "프리젠테이션 모드를 활성화하여 화면을 클린 모드로 변경합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Screen Mode",
+    "shortcut": ["f"],
+    "description": "화면 모드를 변경합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Proof Setup",
+    "shortcut": ["control", "shift", "y"],
+    "description": "프루프 설정을 엽니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Fit Artboard in Window",
+    "shortcut": ["control", "0"],
+    "description": "아트보드를 창 크기에 맞게 조정합니다.",
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Fit All in Window",
+    "shortcut": ["alt", "control", "0"],
+    "description": "모든 오브젝트를 창 크기에 맞게 조정합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Reset Rotate View",
+    "shortcut": ["shift", "control", "1"],
+    "description": "회전한 뷰를 초기화합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+
+  {
+    "command": "Hide Bounding Box",
+    "shortcut": ["control", "shift", "b"],
+    "description": "바운딩 박스를 숨깁니다.",
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Show Transparency Grid",
+    "shortcut": ["control", "shift", "d"],
+    "description": "투명한 영역을 표시하여 투명 배경을 더 잘 확인할 수 있도록 합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Actual Size(100% view)",
+    "shortcut": ["control", "1"],
+    "description": "화면을 원본 비율로 조정합니다.",
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Hide Gradient Annotator",
+    "shortcut": ["control", "alt", "g"],
+    "description": "그라디언트 편집창을 숨겨서 작업 화면을 깔끔하게 유지합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Hide Edge",
+    "shortcut": ["control", "h"],
+    "description": "오브젝트의 경계를 숨겨서 작업 공간을 깔끔하게 유지합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Smart Guides",
+    "shortcut": ["control", "u"],
+    "description": "오브젝트 간의 정렬을 돕는 스마트 가이드를 활성화하여 정밀한 작업을 지원합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Perspective Grid",
+    "shortcut": ["control", "shift", "i"],
+    "description": "원근감을 표현할 수 있는 그리드를 표시하여 3D 작업을 쉽게 할 수 있도록 도와줍니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Hide Artboards",
+    "shortcut": ["control", "shift", "h"],
+    "description": "아트보드를 숨기거나 켜줍니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Hide template",
+    "shortcut": ["control", "shift", "w"],
+    "description": "템플릿을 숨기거나 켜줍니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Rulers",
+    "shortcut": ["control", "r"],
+    "description": "Ruler를 켜줍니다.",
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Change to Artboard Rulers",
+    "shortcut": ["control", "alt", "r"],
+    "description": "아트보드에 맞게 눈금자를 변경하여 아트보드 내에서 더 정확한 측정을 할 수 있도록 합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Hide Text Threads",
+    "shortcut": ["control", "shift", "y"],
+    "description": "텍스트 흐름을 숨겨서 작업 공간을 깔끔하게 유지합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Show Grid",
+    "shortcut": ["control", "'"],
+    "description": "Grid를 보여줍니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Snap To Grid",
+    "shortcut": ["control", "shift", "'"],
+    "description": "Grid에 snap을 유지합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Snap to Point",
+    "shortcut": ["control", "alt", "'"],
+    "description": "Point에 snap을 유지합니다.",
+    "category": "view",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  
+  {
+    "command": "Align",
+    "shortcut": ["shift", "f7"],
+    "description": "객체를 정렬하는 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f7"
+  },
+  {
+    "command": "Appearance",
+    "shortcut": ["shift","f6"],
+    "description": "객체의 속성을 표시하는 Appearance 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f6"
+  },
+  {
+    "command": "Attributes",
+    "shortcut": ["shift", "f11"],
+    "description": "객체의 속성을 편집하는 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f11"
+  },
+  {
+    "command": "Brushes",
+    "shortcut": ["f5"],
+    "description": "브러시 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f5"
+  },
+  {
+    "command": "Color",
+    "shortcut": ["f6"],
+    "description": "색상 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f6"
+  },
+  {
+    "command": "Color Guide",
+    "shortcut": ["shift", "f3"],
+    "description": "색상 가이드 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f3"
+  },
+  {
+    "command": "Gradient Panel",
+    "shortcut": ["control","f9"],
+    "description": "그라디언트 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f9"
+  },
+  {
+    "command": "Graphic Styles",
+    "shortcut": ["shift", "f5"],
+    "description": "그래픽 스타일 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f5"
+  },
+  {
+    "command": "Info",
+    "shortcut": ["f8"],
+    "description": "정보 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput":"f8"
+  },
+  {
+    "command": "Layers",
+    "shortcut": ["f7"],
+    "description": "레이어 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f7"
+  },
+  {
+    "command": "Pathfinder",
+    "shortcut": ["shift","control", "f9"],
+    "description": "패스파인더 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f9"
+  },
+  {
+    "command": "Stroke",
+    "shortcut": ["control", "f10"],
+    "description": "Stroke 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f10"
+  },
+  {
+    "command": "Symbols",
+    "shortcut": ["shift","control", "f11"],
+    "description": "심볼 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f11"
+  },
+  {
+    "command": "Transform Panel",
+    "shortcut": ["shift", "f8"],
+    "description": "Transform 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f8"
+  },
+  {
+    "command": "Transparency Panel",
+    "shortcut": ["shift","control", "f10"],
+    "description": "Transparency 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#",
+    "preinput": "f10"
+  },
+{
+    "command": "Character Panel",
+    "shortcut": ["control", "t"],
+    "description": "문자 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paragraph Panel",
+    "shortcut": ["control","alt", "t"],
+    "description": "문단 패널을 엽니다.",
+    "category": "window",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
   }
+
+
+
+
 ]
