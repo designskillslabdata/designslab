@@ -1,5 +1,5 @@
 {
-  "categoryOrder": ["file", "edit", "object", "type", "select", "view", "window", "toolbar", "etc"],
+  "categoryOrder": ["toolbar", "file", "edit", "image", "layer", "select", "filter", "view", "window"],
   "shortcuts": 
 
 
