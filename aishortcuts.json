@@ -1,3 +1,8 @@
+{
+  "categoryOrder": ["toolbar", "file", "edit", "object", "type", "select", "effect", "view", "window"],
+  "shortcuts": 
+
+
 [
   {
     "command": "Selection Tool",
@@ -1323,3 +1328,6 @@
 
 
 ]
+
+
+}
