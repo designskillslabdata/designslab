@@ -1,3 +1,8 @@
+{
+  "categoryOrder": ["file", "edit", "object", "type", "select", "view", "window", "toolbar", "etc"],
+  "shortcuts": 
+
+
 [
   {
     "command": "Move Tool",
@@ -926,3 +931,6 @@
     "preinput": "f7"
   }
 ]
+
+
+}
