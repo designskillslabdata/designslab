@@ -100,7 +100,7 @@
   },
   {
     "command": "Line Segment Tool",
-    "shortcut": ["\"],
+    "shortcut": ["\\"],
     "description": "직선을 그릴 수 있는 도구입니다.",
     "category": "toolbar",
     "difficulty": "favorite",
