@@ -1,0 +1,380 @@
+[
+  {
+    "command": "Selection Tool",
+    "shortcut": ["v"],
+    "description": "오브젝트를 선택하고 이동하거나 크기를 조절합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Direct Selection Tool",
+    "shortcut": ["a"],
+    "description": "개별 앵커 포인트나 경로를 직접 선택해 수정할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Group Selection Tool",
+    "shortcut": ["control", "alt", "a"],
+    "description": "그룹 내 오브젝트를 개별 또는 그룹 단위로 선택합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Magic Wand Tool",
+    "shortcut": ["y"],
+    "description": "유사한 속성을 가진 오브젝트를 한 번에 선택합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Lasso Tool",
+    "shortcut": ["q"],
+    "description": "자유형태로 선택 영역을 지정하여 오브젝트를 선택합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Pen Tool",
+    "shortcut": ["p"],
+    "description": "정교한 경로와 곡선을 그릴 수 있는 기본 벡터 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Add Anchor Point Tool",
+    "shortcut": ["+"],
+    "description": "경로에 새로운 앵커 포인트를 추가합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Delete Anchor Point Tool",
+    "shortcut": ["-"],
+    "description": "경로에서 앵커 포인트를 제거합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Anchor Point Tool (Convert)",
+    "shortcut": ["shift", "c"],
+    "description": "곡선과 직선 포인트를 변환하거나 핸들을 조정합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Curvature Tool",
+    "shortcut": ["shift", "~"],
+    "description": "보다 직관적으로 곡선을 만들고 수정할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Type Tool",
+    "shortcut": ["t"],
+    "description": "텍스트를 입력하고 편집할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Line Segment Tool",
+    "shortcut": ["\"],
+    "description": "직선을 그릴 수 있는 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Rectangle Tool",
+    "shortcut": ["m"],
+    "description": "사각형 오브젝트를 만듭니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Ellipse Tool",
+    "shortcut": ["l"],
+    "description": "타원이나 원 형태의 오브젝트를 만듭니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Paintbrush Tool",
+    "shortcut": ["b"],
+    "description": "자유로운 선을 그리는 브러시 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Blob Brush Tool",
+    "shortcut": ["shift", "b"],
+    "description": "채워진 형태로 브러시를 그릴 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Shaper Tool",
+    "shortcut": ["shift", "n"],
+    "description": "간단한 제스처로 기본 도형을 만들고 결합합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Pencil Tool",
+    "shortcut": ["n"],
+    "description": "자유롭게 경로를 스케치할 수 있는 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Smooth Tool",
+    "shortcut": ["shift", "~"],
+    "description": "경로의 곡선을 부드럽게 다듬습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Path Eraser Tool",
+    "shortcut": ["shift", "~"],
+    "description": "경로의 일부를 지워 제거합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Eraser Tool",
+    "shortcut": ["shift", "e"],
+    "description": "도형의 일부분 또는 전체를 지울 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Scissors Tool",
+    "shortcut": ["c"],
+    "description": "경로의 특정 지점을 잘라 분할합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Rotate Tool",
+    "shortcut": ["r"],
+    "description": "오브젝트를 회전시킵니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Reflect Tool",
+    "shortcut": ["o"],
+    "description": "오브젝트를 대칭으로 반사시킵니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Scale Tool",
+    "shortcut": ["s"],
+    "description": "크기를 조절할 수 있는 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Width Tool",
+    "shortcut": ["shift", "w"],
+    "description": "선의 너비를 직관적으로 조절합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Free Transform Tool",
+    "shortcut": ["e"],
+    "description": "오브젝트를 회전, 크기 조절, 왜곡할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Shape Builder Tool",
+    "shortcut": ["shift", "m"],
+    "description": "여러 도형을 결합하거나 분할합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Perspective Grid Tool",
+    "shortcut": ["shift", "p"],
+    "description": "원근감을 적용해 작업할 수 있는 가이드를 제공합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Mesh Tool",
+    "shortcut": ["u"],
+    "description": "그라디언트 메시를 만들어 정교한 색상 조절이 가능합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Gradient Tool",
+    "shortcut": ["g"],
+    "description": "그라디언트를 직접 적용하고 조정할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Eyedropper Tool",
+    "shortcut": ["i"],
+    "description": "색상 및 속성을 다른 오브젝트에서 추출합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Blend Tool",
+    "shortcut": ["w"],
+    "description": "두 오브젝트 사이를 자연스럽게 연결합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Symbol Sprayer Tool",
+    "shortcut": ["shift", "s"],
+    "description": "심볼을 여러 개 뿌릴 수 있는 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Column Graph Tool",
+    "shortcut": ["j"],
+    "description": "막대그래프를 생성할 수 있는 그래프 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Artboard Tool",
+    "shortcut": ["shift", "o"],
+    "description": "새 아트보드를 만들거나 편집할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Slice Tool",
+    "shortcut": ["shift", "k"],
+    "description": "웹용으로 이미지 영역을 나눌 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Hand Tool",
+    "shortcut": ["h"],
+    "description": "아트보드를 손으로 이동시킬 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Zoom Tool",
+    "shortcut": ["z"],
+    "description": "화면을 확대 또는 축소합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Fill Color",
+    "shortcut": [","],
+    "description": "면이나 선을 색상으로 채워줍니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Gradient Color",
+    "shortcut": ["."],
+    "description": "면이나 선을 그라디언트로 채워줍니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "None Color",
+    "shortcut": ["/"],
+    "description": "면이나 선의 색상을 없애줍니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  }
+]
