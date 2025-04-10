@@ -273,11 +273,22 @@
   {
     "command": "Save a Copy",
     "description": "현재 문서를 복사본으로 저장합니다.",
+    "shortcut": ["f12"],
+    "category": "file",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+
+  },
+  {
+    "command": "Revert",
+    "description": "파일을 처음 상태로 되돌립니다.",
     "shortcut": ["alt", "control", "s"],
     "category": "file",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#"
+    "link": "#",
+        "preinput":"f12"
   },
   {
     "command": "File Info",
@@ -390,6 +401,24 @@
     "link": "#"
   },
   {
+    "command": "Transform Again",
+    "description": "최근 사용한 Transform 다시 실행.",
+    "shortcut": ["control","shift", "t"],
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Transform Copy Again",
+    "description": "최근 사용한 Transform 레이어 복제 후 다시 실행.",
+    "shortcut": ["control","shift","alt", "t"],
+    "category": "edit",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
     "command": "Color Settings",
     "description": "색상 설정 대화 상자를 엽니다.",
     "shortcut": ["control", "shift", "k"],
@@ -425,6 +454,15 @@
     "preview": "#",
     "link": "#",
     "preinput": "f5"
+  },
+  {
+    "command": "Content-Aware Scale",
+    "description": "내용 인식 스케일 기능.",
+    "shortcut": ["shift","control","alt", "c"],
+    "category": "edit",
+    "difficulty": "3",
+    "preview": "#",
+    "link": "#",
   },
 
  {
@@ -658,15 +696,6 @@
     "command": "Select All Layers",
     "description": "모든 레이어를 선택합니다.",
     "shortcut": ["alt", "control", "a"],
-    "category": "select",
-    "difficulty": "#",
-    "preview": "#",
-    "link": "#"
-  },
-  {
-    "command": "Deselect Layers",
-    "description": "현재 선택된 레이어를 선택 해제합니다.",
-    "shortcut": ["control", "shift", "a"],
     "category": "select",
     "difficulty": "#",
     "preview": "#",
