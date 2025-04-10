@@ -736,7 +736,7 @@
     "link": "#"
   },
   {
-    "command": "Blend > Make",
+    "command": "Make Blend",
     "shortcut": ["alt", "control", "b"],
     "description": "두 오브젝트를 혼합하여 블렌드 오브젝트를 생성합니다.",
     "category": "object",
@@ -745,7 +745,7 @@
     "link": "#"
   },
   {
-    "command": "Blend > Release",
+    "command": "Release Blend",
     "shortcut": ["alt", "shift", "control", "b"],
     "description": "블렌드 상태를 해제합니다.",
     "category": "object",
@@ -790,7 +790,7 @@
     "link": "#"
   },
   {
-    "command": "Clipping Mask > Make",
+    "command": "Clipping Mask",
     "shortcut": ["control", "7"],
     "description": "클리핑 마스크를 설정합니다.",
     "category": "object",
@@ -799,7 +799,7 @@
     "link": "#"
   },
   {
-    "command": "Clipping Mask > Release",
+    "command": "Release Clipping Mask",
     "shortcut": ["control","alt", "7"],
     "description": "클리핑 마스크를 해제합니다.",
     "category": "object",
@@ -808,7 +808,7 @@
     "link": "#"
   },
   {
-    "command": "Compound Path > Make",
+    "command": "Compound Path",
     "shortcut": ["control", "8"],
     "description": "복합 경로를 만듭니다.",
     "category": "object",
@@ -817,7 +817,7 @@
     "link": "#"
   },
   {
-    "command": "Compound Path > Release",
+    "command": "Release Compound Path",
     "shortcut": ["shift", "alt", "control", "8"],
     "description": "복합 경로를 해제합니다.",
     "category": "object",
