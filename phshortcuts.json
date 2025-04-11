@@ -68,8 +68,8 @@
     "link": "https://designskillslab.com/dictionary/?q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&bmode=view&idx=14939358&t=board#onlist1"
   },
   {
-    "command": "Patch Tool",
-    "description": "Remove Tool /Healing Brush Tool \n 이미지의 결함이나 잡티를 주변 픽셀과 자연스럽게 섞어 복원하는 도구.",
+    "command": "Remove Tool",
+    "description": "Patch Tool /Healing Brush Tool \n 이미지의 결함이나 잡티를 주변 픽셀과 자연스럽게 섞어 복원하는 도구.",
     "shortcut": ["j"],
     "category": "toolbar",
     "difficulty": "favorite",
@@ -87,7 +87,7 @@
   },
   {
     "command": "Clone Stamp Tool",
-    "description": "이미지의 한 부분을 복제해 다른 곳에 찍을 수 있는 도구.",
+    "description": "이미지의 한 부분을 브러시 형태로 복제하는 도구.",
     "shortcut": ["s"],
     "category": "toolbar",
     "difficulty": "favorite",
@@ -122,8 +122,8 @@
     "link": "https://designskillslab.imweb.me/dictionary/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=14955827&t=board&category=0TE168OF78#onlist1"
   },
   {
-    "command": "Dodge Tool",
-    "description": "Burn Tool \n 이미지의 특정 부분을 밝게 만들어 하이라이트를 강조하는 도구.",
+    "command": "Dodge/Burn Tool",
+    "description": "이미지의 특정 부분을 밝게/어둡게 만들어 하이라이트와 그림자를 강조하는 도구.",
     "shortcut": ["o"],
     "category": "toolbar",
     "difficulty": "favorite",
@@ -132,7 +132,7 @@
   },
   {
     "command": "Pen Tool",
-    "description": "정확한 경로와 선택 영역을 만들 수 있는 벡터 기반 도구.",
+    "description": "Path와 Shape을 만들 수 있는 벡터 기반 도구.",
     "shortcut": ["p"],
     "category": "toolbar",
     "difficulty": "favorite",
@@ -141,7 +141,7 @@
   },
   {
     "command": "Type Tool",
-    "description": "이미지에 텍스트를 입력할 수 있는 도구.",
+    "description": "텍스트를 입력할 수 있는 도구.",
     "shortcut": ["t"],
     "category": "toolbar",
     "difficulty": "favorite",
@@ -290,7 +290,7 @@
     "description": "파일을 처음 상태로 되돌립니다.",
     "shortcut": ["alt", "control", "s"],
     "category": "file",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#",
         "preinput":"f12"
@@ -590,7 +590,7 @@
   },
   {
     "command": "Layer Via Copy",
-    "description": "선택한 영역을 복사하여 새 레이어로 만듭니다.",
+    "description": "레이어를 복제합니다.",
     "shortcut": ["control", "j"],
     "category": "layer",
     "difficulty": "favorite",
@@ -818,7 +818,7 @@
   },
   {
     "command": "100%",
-    "description": "이미지를 실제 픽셀 크기로 표시합니다.",
+    "description": "이미지를 원본 크기로 표시합니다.",
     "shortcut": ["control", "1"],
     "category": "view",
     "difficulty": "favorite",
