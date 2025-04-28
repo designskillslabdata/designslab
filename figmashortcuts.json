@@ -742,49 +742,33 @@
   },
   {
     "command": "Align Left/Right",
-    "shortcut": ["control", "a", "d"],
+    "shortcut": ["alt", "a", "d"],
     "description": "선택된 오브젝트를 좌/우로 정렬합니다.",
     "category": "arrange",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
   {
     "command": "Align Top/Bottom",
-    "shortcut": ["control", "w", "s"],
+    "shortcut": ["alt", "w", "s"],
     "description": "선택된 오브젝트를 상/하로 정렬합니다.",
     "category": "arrange",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
   {
     "command": "Align Centers",
-    "shortcut": ["control", "h", "v"],
+    "shortcut": ["alt", "h", "v"],
     "description": "선택된 오브젝트를 중앙으로 정렬합니다.",
     "category": "arrange",
-    "difficulty": "favorite",
-    "preview": "#",
-    "link": "#"
-  },
-  {
-    "command": "Distribute Spacing",
-    "shortcut": ["shift", "control", "h", "v"],
-    "description": "선택된 오브젝트 간의 간격을 균등하게 분배합니다.",
-    "category": "arrange",
     "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
-  {
-    "command": "Tidy Up",
-    "shortcut": ["shift", "control", "t"],
-    "description": "선택된 오브젝트들을 정렬하여 깔끔하게 정리합니다.",
-    "category": "arrange",
-    "difficulty": "#",
-    "preview": "#",
-    "link": "#"
-  },
+
+
   {
     "command": "Add Auto Layout",
     "shortcut": ["shift", "a"],
