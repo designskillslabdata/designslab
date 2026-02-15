@@ -684,15 +684,7 @@
     "preview": "#",
     "link": "#"
   },
-  {
-    "command": "Set Opacity to 0%",
-    "shortcut": ["0"],
-    "description": "선택된 오브젝트의 불투명도를 0%로 설정합니다.",
-    "category": "transform",
-    "difficulty": "favorite",
-    "preview": "#",
-    "link": "#"
-  },
+
   {
     "command": "Set Opacity to 100%",
     "shortcut": ["0"],
@@ -707,7 +699,7 @@
   {
     "command": "Bring Forward",
     "shortcut": ["control", "]"],
-    "description": "선택된 오브젝트를 앞으로 가져옵니다.",
+    "description": "선택된 오브젝트를 한 단계 앞으로 가져옵니다.",
     "category": "arrange",
     "difficulty": "favorite",
     "preview": "#",
@@ -716,7 +708,7 @@
   {
     "command": "Send Backward",
     "shortcut": ["control", "["],
-    "description": "선택된 오브젝트를 뒤로 보냅니다.",
+    "description": "선택된 오브젝트를 한 단계 뒤로 보냅니다.",
     "category": "arrange",
     "difficulty": "favorite",
     "preview": "#",
