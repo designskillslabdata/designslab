@@ -125,7 +125,7 @@
 
   {
     "command": "Show/Hide UI",
-    "shortcut": ["control", " \\"],
+    "shortcut": ["control", "\"],
     "description": "UI를 표시하거나 숨깁니다.",
     "category": "view",
     "difficulty": "favorite",
