@@ -179,7 +179,7 @@
   },
   {
     "command": "Pixel Grid",
-    "shortcut": ["control", " ' "],
+    "shortcut": ["control", "'"],
     "description": "픽셀 그리드를 표시합니다.",
     "category": "view",
     "difficulty": "#",
