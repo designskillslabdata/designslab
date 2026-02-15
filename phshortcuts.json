@@ -278,9 +278,9 @@
   {
     "command": "Save a Copy",
     "description": "현재 문서를 복사본으로 저장합니다.",
-    "shortcut": ["f12"],
+    "shortcut": ["alt", "control", "s"],
     "category": "file",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
 
@@ -288,12 +288,11 @@
   {
     "command": "Revert",
     "description": "파일을 처음 상태로 되돌립니다.",
-    "shortcut": ["alt", "control", "s"],
+    "shortcut": ["f12"],
     "category": "file",
     "difficulty": "#",
     "preview": "#",
     "link": "#",
-        "preinput":"f12"
   },
   {
     "command": "File Info",
@@ -589,8 +588,8 @@
     "link": "#"
   },
   {
-    "command": "Layer Via Copy",
-    "description": "레이어를 복제합니다.",
+    "command": "Duplicate Layer",
+    "description": "레이어를 복제합니다.(Layer Via Copy)",
     "shortcut": ["control", "j"],
     "category": "layer",
     "difficulty": "favorite",
@@ -620,7 +619,7 @@
     "description": "선택한 레이어 그룹을 해제합니다.",
     "shortcut": ["shift", "control", "g"],
     "category": "layer",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
@@ -666,7 +665,7 @@
     "description": "전체 캔버스를 선택합니다.",
     "shortcut": ["control", "a"],
     "category": "select",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
@@ -792,7 +791,7 @@
   {
     "command": "Zoom In",
     "description": "작업 화면을 확대합니다.",
-    "shortcut": ["control", "+"],
+    "shortcut": ["control", "="],
     "category": "view",
     "difficulty": "#",
     "preview": "#",
@@ -873,9 +872,27 @@
   {
     "command": "Lock Guide",
     "description": "가이드를 잠급니다..",
-    "shortcut": ["control","shift", ";"],
+    "shortcut": ["control","alt", ";"],
     "category": "view",
-    "difficulty": "#",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Next Tab",
+    "description": "다음 탭으로 이동",
+    "shortcut": ["control", "tab"],
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Previous Tab",
+    "description": "이전 탭으로 이동",
+    "shortcut": ["control","shift", "tab"],
+    "category": "view",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
