@@ -692,7 +692,7 @@
     "description": "선택 영역을 반전시킵니다.",
     "shortcut": ["shift", "control", "i"],
     "category": "select",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
