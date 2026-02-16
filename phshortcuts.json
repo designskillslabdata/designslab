@@ -450,15 +450,32 @@
     "link": "#"
   },
   {
-    "command": "Fill",
+    "command": "Fill(Edit)",
     "description": "채우기 기능. Content-Aware 등.",
     "shortcut": ["shift", "f5"],
     "category": "edit",
     "difficulty": "favorite",
     "preview": "#",
-    "link": "#",
+    "link": "#"
   },
-
+{
+    "command": "Fill Foreground Color",
+    "description": "전경색 채우기.",
+    "shortcut": ["alt", "delete"],
+    "category": "edit",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Fill Background Color",
+    "description": "배경색 채우기.",
+    "shortcut": ["control", "delete"],
+    "category": "edit",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
   {
     "command": "Content-Aware Scale",
     "description": "내용 인식 스케일 기능.",
@@ -692,7 +709,7 @@
     "description": "선택 영역을 반전시킵니다.",
     "shortcut": ["shift", "control", "i"],
     "category": "select",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
