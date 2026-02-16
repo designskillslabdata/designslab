@@ -450,7 +450,7 @@
     "link": "#"
   },
   {
-    "command": "Fill(Edit)",
+    "command": "Fill",
     "description": "채우기 기능. Content-Aware 등.",
     "shortcut": ["shift", "f5"],
     "category": "edit",
