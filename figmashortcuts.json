@@ -1,5 +1,5 @@
 {
-  "categoryOrder": ["tools", "view", "zoom", "text", "shape", "selection", "cursor", "edit", "transform","arrange","components"],
+  "categoryOrder": ["toolbar", "view", "zoom", "text", "shape", "selection", "cursor", "edit", "transform","arrange","components"],
   "shortcuts": 
 
 
@@ -248,8 +248,6 @@
     "preview": "#",
     "link": "#"
   },
-
-
 
 
   {
