@@ -1020,7 +1020,7 @@
   },
 
   {
-    "command": "Hide Bounding Box",
+    "command": "Bounding Box",
     "shortcut": ["control", "shift", "b"],
     "description": "바운딩 박스를 숨깁니다.",
     "category": "view",
@@ -1038,7 +1038,7 @@
     "link": "#"
   },
 {
-    "command": "Actual Size(100% view)",
+    "command": "100%로 보기.",
     "shortcut": ["control", "1"],
     "description": "화면을 원본 비율로 조정합니다.",
     "category": "view",
