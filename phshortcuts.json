@@ -461,7 +461,7 @@
   {
     "command": "Fill Foreground Color",
     "description": "전경색 채우기.",
-    "shortcut": ["alt", "delete"],
+    "shortcut": ["alt"],
     "category": "edit",
     "difficulty": "favorite",
     "preview": "#",
@@ -470,7 +470,7 @@
   {
     "command": "Fill Background Color",
     "description": "배경색 채우기.",
-    "shortcut": ["control", "delete"],
+    "shortcut": ["control"],
     "category": "edit",
     "difficulty": "favorite",
     "preview": "#",
