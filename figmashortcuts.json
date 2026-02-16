@@ -14,9 +14,36 @@
     "link": "#"
   },
   {
+    "command": "Hand Tool",
+    "shortcut": ["h"],
+    "description": "화면을 이동합니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Scale Tool",
+    "shortcut": ["k"],
+    "description": "크기를 조절하는 도구",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
     "command": "Frame Tool",
     "shortcut": ["f"],
     "description": "프레임을 생성하여 디자인 작업 영역을 설정합니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Section Tool",
+    "shortcut": ["shift","s"],
+    "description": "섹션 생성 도구",
     "category": "toolbar",
     "difficulty": "favorite",
     "preview": "#",
@@ -36,7 +63,7 @@
     "shortcut": ["shift", "p"],
     "description": "손으로 그리듯 자유로운 선을 그릴 수 있는 도구입니다.",
     "category": "toolbar",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -45,7 +72,7 @@
     "shortcut": ["t"],
     "description": "텍스트 상자를 만들어 글자를 입력합니다.",
     "category": "toolbar",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
@@ -116,6 +143,33 @@
     "command": "Slice Tool",
     "shortcut": ["s"],
     "description": "이미지나 도형을 자를 수 있는 슬라이스 도구입니다.",
+    "category": "toolbar",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Say Something",
+    "shortcut": ["/"],
+    "description": "채팅으로 팀원들에게 말을 할 수 있습니다.",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Shape Builder",
+    "shortcut": ["m"],
+    "description": "도형을 조합하는 Shape Builder Tool",
+    "category": "toolbar",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Measurement Tool",
+    "shortcut": ["shift","m"],
+    "description": "길이를 재는 도구",
     "category": "toolbar",
     "difficulty": "#",
     "preview": "#",
@@ -483,15 +537,6 @@
     "description": "글자의 행간을 줄입니다.",
     "category": "text",
     "difficulty": "favorite",
-    "preview": "#",
-    "link": "#"
-  },
-  {
-    "command": "Remove Fill",
-    "shortcut": ["/"],
-    "description": "선택된 도형에서 채우기 색상을 제거합니다.",
-    "category": "shape",
-    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
