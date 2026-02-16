@@ -36,7 +36,7 @@
     "shortcut": ["shift", "p"],
     "description": "손으로 그리듯 자유로운 선을 그릴 수 있는 도구입니다.",
     "category": "toolbar",
-    "difficulty": "#",
+    "difficulty": "favorite",
     "preview": "#",
     "link": "#"
   },
@@ -121,8 +121,25 @@
     "preview": "#",
     "link": "#"
   },
+{
+    "command": "Design/Prototype Mode",
+    "shortcut": ["shift", "e"],
+    "description": "디자인 모드와 프로토타입 모드 스위치.",
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
 
-
+{
+    "command": "Ruler",
+    "shortcut": ["shift", "r"],
+    "description": "Ruler 켜기/끄기.",
+    "category": "view",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
   {
     "command": "Show/Hide UI",
     "shortcut": ["control", "\\"],
@@ -170,7 +187,7 @@
   },
   {
     "command": "Layout Grids",
-    "shortcut": ["control", "shift", "g"],
+    "shortcut": ["shift", "g"],
     "description": "레이아웃 그리드를 표시합니다.",
     "category": "view",
     "difficulty": "#",
@@ -179,7 +196,7 @@
   },
   {
     "command": "Pixel Grid",
-    "shortcut": ["control", " ' "],
+    "shortcut": ["shift", " ' "],
     "description": "픽셀 그리드를 표시합니다.",
     "category": "view",
     "difficulty": "#",
@@ -322,7 +339,7 @@
     "shortcut": ["control", "b"],
     "description": "텍스트를 볼드체로 변경합니다.",
     "category": "text",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -346,7 +363,7 @@
   },
   {
     "command": "Create Link",
-    "shortcut": ["control", "shift", "x"],
+    "shortcut": ["control", "shift", "u"],
     "description": "텍스트에 링크를 추가합니다.",
     "category": "text",
     "difficulty": "#",
@@ -355,7 +372,7 @@
   },
   {
     "command": "Strikethrough",
-    "shortcut": ["control", "shift", "s"],
+    "shortcut": ["control", "shift", "x"],
     "description": "텍스트에 취소선을 추가합니다.",
     "category": "text",
     "difficulty": "#",
@@ -374,7 +391,7 @@
   },
   {
     "command": "Text Align Center",
-    "shortcut": ["control","alt", "e"],
+    "shortcut": ["control","alt", "t"],
     "description": "텍스트를 중앙 정렬로 설정합니다.",
     "category": "text",
     "difficulty": "#",
@@ -399,7 +416,160 @@
     "preview": "#",
     "link": "#"
   },
+  {
+    "command": "Font Size up",
+    "shortcut": ["control","shift", "."],
+    "description": "폰트의 크기를 키웁니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Font Size down",
+    "shortcut": ["control","shift", ","],
+    "description": "폰트의 크기를 줄입니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Font Weight up",
+    "shortcut": ["control","alt", "."],
+    "description": "폰트의 두께를 키웁    "description": "텍스트에 밑줄을 추가합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Create Link",
+    "shortcut": ["control", "shift", "u"],
+    "description": "텍스트에 링크를 추가합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Strikethrough",
+    "shortcut": ["control", "shift", "x"],
+    "description": "텍스트에 취소선을 추가합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
 
+  {
+    "command": "Text Align Left",
+    "shortcut": ["control","alt", "l"],
+    "description": "텍스트를 왼쪽 정렬로 설정합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Text Align Center",
+    "shortcut": ["control","alt", "t"],
+    "description": "텍스트를 중앙 정렬로 설정합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Text Align Right",
+    "shortcut": ["control","alt", "r"],
+    "description": "텍스트를 오른쪽 정렬로 설정합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Text Align Justified",
+    "shortcut": ["control","alt", "j"],
+    "description": "텍스트를 양쪽 정렬로 설정합니다.",
+    "category": "text",
+    "difficulty": "#",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Font Size Increase",
+    "shortcut": ["control","shift", "."],
+    "description": "폰트의 크기를 키웁니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+{
+    "command": "Font Size Decrease",
+    "shortcut": ["control","shift", ","],
+    "description": "폰트의 크기를 줄입니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Font Weight Increase",
+    "shortcut": ["control","alt", "."],
+    "description": "폰트의 두께를 키웁니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Font Weight Decrease",
+    "shortcut": ["control","alt", ","],
+    "description": "폰트의 두께를 줄입니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Letter Spacing Increase",
+    "shortcut": ["alt", "."],
+    "description": "글자의 자간을 늘립니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Letter Spacing Decrease",
+    "shortcut": ["alt", ","],
+    "description": "글자의 자간을 줄입니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Line Height Increase",
+    "shortcut": ["alt", "shift", "."],
+    "description": "글자의 행간을 늘립니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
+  {
+    "command": "Line Height Decrease",
+    "shortcut": ["alt", "shift", ","],
+    "description": "글자의 행간을 줄입니다.",
+    "category": "text",
+    "difficulty": "favorite",
+    "preview": "#",
+    "link": "#"
+  },
   {
     "command": "Remove Fill",
     "shortcut": ["/"],
@@ -500,16 +670,7 @@
     "preview": "#",
     "link": "#"
   },
-  {
-    "command": "Deep Select",
-    "shortcut": ["control", "click"],
-    "description": "하위 요소를 깊게 선택합니다.",
-    "category": "selection",
-    "difficulty": "#",
-    "preview": "#",
-    "link": "#",
-    "preinput":"click"
-  },
+
   {
     "command": "Group Selection",
     "shortcut": ["control", "g"],
@@ -690,7 +851,7 @@
     "shortcut": ["0"],
     "description": "선택된 오브젝트의 불투명도를 100%로 설정합니다.",
     "category": "transform",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -701,7 +862,7 @@
     "shortcut": ["control", "]"],
     "description": "선택된 오브젝트를 한 단계 앞으로 가져옵니다.",
     "category": "arrange",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
@@ -710,7 +871,7 @@
     "shortcut": ["control", "["],
     "description": "선택된 오브젝트를 한 단계 뒤로 보냅니다.",
     "category": "arrange",
-    "difficulty": "favorite",
+    "difficulty": "#",
     "preview": "#",
     "link": "#"
   },
