@@ -458,24 +458,7 @@
     "preview": "#",
     "link": "#",
   },
-  {
-    "command": "Fill Foreground Color",
-    "description": "전경색 채우기.",
-    "shortcut": ["alt"],
-    "category": "edit",
-    "difficulty": "favorite",
-    "preview": "#",
-    "link": "#",
-  },
-  {
-    "command": "Fill Background Color",
-    "description": "배경색 채우기.",
-    "shortcut": ["control"],
-    "category": "edit",
-    "difficulty": "favorite",
-    "preview": "#",
-    "link": "#",
-  },
+
   {
     "command": "Content-Aware Scale",
     "description": "내용 인식 스케일 기능.",
